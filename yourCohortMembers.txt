@@ -2,7 +2,7 @@ The time or name of your cohort:
 DanielsCohort
 
 First names of all your cohort classmates:
-Parker
+Parker Johnson
 Amy
 Benjamin
 Bridger
